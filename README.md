@@ -24,8 +24,7 @@ Harvest Haven is a Stardew Valley Clone focused on recreating the core systems o
 TBD
 
 ### Technical Details
-Harvest Haven is a Stardew Valley Clone created with Unity during Rob Ager's Udemy course on intermediate 2D game development. The learning goals for this project were to extend and showcase my Unity and C# knowledge through building a sophisticated game that used complex Unity components created with C# scripting. Given this was created during a course, I also demonstrated my understanding by explaining how all the scripts work by writing out all the systems created and problems faced when making the game and how they were solved [here](https://docs.google.com/document/d/19McVkT2cn-rH0Mk5QOAxQ-ZghUwDj0smAmopQ-em1YE/edit?usp=sharing). 
-On top of this, I added my own systems and functionality to the game beyond the course: a player customization system, a function that only allows plants to grow if they have been watered, and a system that randomly generates the commodoties and reapable items on the initial start of the game.
+Harvest Haven is a Stardew Valley Clone created with Unity during Rob Ager's Udemy course on intermediate 2D game development. The learning goals for this project were to extend and showcase my Unity and C# knowledge through building a sophisticated game that used complex Unity components created with C# scripting. Given this was created during a course, I also demonstrated my understanding by explaining how all the scripts work by writing out all the systems created and problems faced when making the game and how they were solved [here](https://docs.google.com/document/d/19McVkT2cn-rH0Mk5QOAxQ-ZghUwDj0smAmopQ-em1YE/edit?usp=sharing)
 
 |**System/Functionality**|**Description**|
 |:----------------------:|:-------------:|

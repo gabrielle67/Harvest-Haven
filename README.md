@@ -24,20 +24,19 @@ Harvest Haven is a Stardew Valley Clone focused on recreating the core systems o
 TBD
 
 ### Technical Details
-Harvest Haven is a Stardew Valley Clone created with Unity during Rob Ager's Udemy course on intermediate 2D game development. The learning goals for this project were to extend and showcase my Unity and C# knowledge through building a sophisticated game that used complex Unity components created with C# scripting. Given this was created during a course, I also demonstrated my understanding by explaining how all the scripts work by writing out all the systems created and problems faced when making the game and how they were solved [here](https://docs.google.com/document/d/19McVkT2cn-rH0Mk5QOAxQ-ZghUwDj0smAmopQ-em1YE/edit?usp=sharing)
+Harvest Haven is a Stardew Valley Clone created with Unity during Rob Ager's Udemy course on intermediate 2D game development. Given this was created during a course, I also demonstrated my understanding by explaining how all the scripts work by writing out all the systems created and problems faced when making the game and how they were solved [here](https://docs.google.com/document/d/19McVkT2cn-rH0Mk5QOAxQ-ZghUwDj0smAmopQ-em1YE/edit?usp=sharing)
 
-|**System/Functionality**|**Description**|
-|:----------------------:|:-------------:|
-| Player Movement & Animation | |
-| Inventory | |
-| Time System | | 
-| Scene Management & State Preservation | |
-| Tilemap Properties | |
-| Tool Interactivity | |
-| Particle Effects ||
-| Crops System | |
-| Pause Menu ||
-| Save Game ||
-| Player Customization ||
-| NPCs: Pathfinding with A*||
-| Sound Effects + Music ||
+### Systems + Functionality
+- Player Movement & Animation	
+- Inventory	
+- Time System	
+- Scene Management & State Preservation	
+- Tilemap Properties	
+- Tool Interactivity	
+- Particle Effects	
+- Crops System	
+- Pause Menu	
+- Save Game	
+- Player Customization	
+- NPCs: Pathfinding with A*	
+- Sound Effects + Music	
